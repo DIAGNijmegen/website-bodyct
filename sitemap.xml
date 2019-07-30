@@ -3,10 +3,6 @@
 
 
   <url>
-    <loc>https://bodyct.diagnijmegen.nl/404/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
     <loc>https://bodyct.diagnijmegen.nl/about/</loc>
     <priority>1.0</priority>
   </url>
@@ -24,6 +20,10 @@
   </url>
   <url>
     <loc>https://bodyct.diagnijmegen.nl/members/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://bodyct.diagnijmegen.nl/404/</loc>
     <priority>1.0</priority>
   </url>
   <url>
